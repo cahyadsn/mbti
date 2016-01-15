@@ -1,0 +1,21 @@
+body,table {font-family: verdana,arial,sans-serif;font-size: 1em;}
+input {background-color: #eee;line-height:1.5em;}
+thead {background-color: #666;color: #fff;line-height: 2em; padding:0.2em;}
+tfoot {background-color: #999;color: #fff;border-radius:3em;}
+td {padding:0.2em;}
+caption {font-size: 2em;}
+input[type=radio]{border-radius: 0;width:2.2em;height:2.2em;}
+footer,header {margin:auto;width:100%;text-align:center;}
+footer {line-height:2em; background-color:#999;color:#fff;border-radius:0.3em;}
+header {line-height:3em; background-color:#99e;color:#fff;border-radius:0.3em;}
+a {text-decoration:none;font-weight:bold;color:#333;}
+a:hover {text-decoration:none;font-weight:bold;color:#33e;}
+.btn {background-color: #eee;line-height:2em;padding:0.1em 0.6em;margin:0.2em;font-size:1.5em;font-weight:bold;border-radius: 0.3em;}
+.dark {background-color: #eee;}
+.first {border-top: solid 0.2em #000; }
+.badge { position:relative;line-height: 3em;border:solid #999 1px;text-align: center;font-size: 2em;}
+.badge[data-badge]:after {content:attr(data-badge);position:absolute;top:1px;left:1px;font-size:.7em;background:#9af;color:white;width:18px;height:18px;text-align:center;line-height:18px;box-shadow:0 0 1px #333;}
+.info-box{padding:0.5em;margin:0.3em;border-radius:0.5em;border: solid 1px #999;background-color:#ffc;}
+.container {margin:auto;}
+.right{text-align:right;}
+.result {margin:1em;}
