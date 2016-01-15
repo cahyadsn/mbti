@@ -28,6 +28,9 @@ while($row=$result->fetch_object()) $data[]=$row;
   <body>
     <header><h1>:: Myer Briggs Type Indicator (MBTI) Test</h1></header>
     <div id='container'>
+      <div class='info-box'>
+        Di bawah ini ada 60 nomor. Masing-masing nomor memiliki dua pernyataan yang bertolak belakang (PERNYATAAN 1 & 2). Pilihlah salah satu pernyataan yang paling sesuai dengan diri Anda dengan men-check pada isian pada kolom yang sudah disediakan (KOLOM PILIHAN). Anda HARUS memilih salah satu yang dominan serta mengisi semua nomor.
+      </div>
       <form action='result.php' method='post'>
         <table>
           <thead>
