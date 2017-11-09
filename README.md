@@ -47,5 +47,5 @@ Dimensi terakhir melihat derajat fleksibilitas seseorang. Judging di sini bukan 
 ##Contact
 + facebook (https://m.facebook.com/cahya.dsn)
 + email (cahyadsn@gmail.com)
-+ demo site    : (http://phpindonesia.id1945.com/mbti)
++ demo site    : (http://cahyadsn.dev.php.or.id/mbti)
 + source code  : (https://github.com/cahyadsn/mbti)
