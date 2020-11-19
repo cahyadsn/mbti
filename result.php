@@ -24,9 +24,9 @@ if(isset($_POST['d'])){
   $F=($b[58]+$b[57]+$b[55]+$a[49]+$b[48]+$b[42]+$a[39]+$b[37]+$b[23]+$a[32]+$b[30]+$b[17]+$a[9]+$b[4]+$b[14])/15;
   $J=($b[59]+$a[56]+$a[54]+$b[50]+$a[47]+$b[44]+$b[40]+$b[33]+$b[26]+$a[24]+$b[21]+$a[19]+$b[12]+$a[3]+$b[1])/15;
   $P=($a[59]+$b[56]+$b[54]+$a[50]+$b[47]+$a[44]+$a[40]+$a[33]+$a[26]+$b[24]+$a[21]+$b[19]+$a[12]+$b[3]+$a[1])/15;
-  $result=($I>$E?'I':'E').($S>$N?'S':'N').($T>$F?'T':'J').($J>$P?'J':'P');
+  $resultStr=($I>$E?'I':'E').($S>$N?'S':'N').($T>$F?'T':'F').($J>$P?'J':'P');
   include 'inc/config.php';
-  $sql="SELECT * FROM tbl_interprestation WHERE symbol='{$result}' ";
+  $sql="SELECT * FROM tbl_interprestation WHERE symbol='{$resultStr}' ";
   $result=$db->query($sql);
   $data=$result->fetch_object();
 ?>
