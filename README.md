@@ -27,7 +27,7 @@ Dimensi ketiga melihat bagaimana orang mengambil keputusan. Thinking adalah mere
 Dimensi terakhir melihat derajat fleksibilitas seseorang. Judging di sini bukan berarti judgemental
 (menghakimi). Judging diartikan sebagai tipe orang yang selalu bertumpu pada rencana yang sistematis, serta senantiasa berpikir dan bertindak teratur (tidak melompat-lompat). Mereka tidak suka hal-hal mendadak dan di luar perencanaan. Mereka ingin merencanakan pekerjaan dan mengikuti rencana itu.  Mereka bagus dalam penjadwalan, penetapan struktur, dan perencanaan step by step. Sementara tipe perceiving adalah mereka yang bersikap fleksibel, spontan, adaptif, dan bertindak secara acak untuk melihat beragam peluang yang muncul. Perubahan mendadak tidak masalah dan ketidakpastian membuat mereka bergairah. Bagus dalam menghadapi perubahan dan situasi mendadak.
 
-##Instalasi
+## Instalasi
 1. download file mbti.zip 
 2. extract ke folder root document webserver
 3. buat database baru dengan nama 'mbti'
@@ -35,14 +35,15 @@ Dimensi terakhir melihat derajat fleksibilitas seseorang. Judging di sini bukan 
 5. ubah konfigurasi database pada file 'inc/config.php' sesuai dengan yang digunakan 
 6. enjoy
 
-##Teknologi
+## Teknologi
 + PHP (http://www.php.net/), 
 + MySQL (http://www.mysql.com/), 
 
-##Donasi
+## Donasi
 + BNI Syariah 0821 342 555
++ Paypal (https://paypal.me/cahyadwiana)
 
-##Contact
+## Contact
 + facebook (https://m.facebook.com/cahya.dsn)
 + email (cahyadsn@gmail.com)
 + demo site    : (http://psycho.cahyadsn.com/mbti)
