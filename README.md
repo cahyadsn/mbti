@@ -40,7 +40,7 @@ Dimensi terakhir melihat derajat fleksibilitas seseorang. Judging di sini bukan 
 + MySQL (http://www.mysql.com/), 
 
 ## Donasi
-+ BNI Syariah 0821 342 555
++ Bank Syariah Indonesia 821 342 5550
 + Paypal (https://paypal.me/cahyadwiana)
 
 ## Contact
