@@ -1,5 +1,5 @@
 # MBTI
-Myer Briggs Type Indicator (MBTI) Test Application in PHP language (Indonesia version)
+Myer Briggs Type Indicator (MBTI) Test Application in PHP language (Indonesian version)
 
 )* see https://github.com/cahyadsn/mbti_test for English version
 
