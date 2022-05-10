@@ -1,5 +1,7 @@
 # MBTI
-Myer Briggs Type Indicator (MBTI) Test Application in PHP language
+Myer Briggs Type Indicator (MBTI) Test Application in PHP language (Indonesia version)
+
+)* see https://github.com/cahyadsn/mbti_test for English version
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cahyadsn/disc_id/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/cahyadsn/mbti.svg)](https://github.com/cahyadsn/mbti/network)
