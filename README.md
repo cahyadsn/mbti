@@ -1,5 +1,5 @@
 # MBTI
-Myer Briggs Type Indicator (MBTI) Test Application in PHP language (Indonesian version)
+Myer Briggs Type Indicator (MBTI) Test Application in PHP language (Indonesian version). Aplikasi Test MBTI (Myer Briggs Type Indicator) dalam bahasa Indonesia
 
 )* see https://github.com/cahyadsn/mbti_test for English version
 
@@ -39,11 +39,17 @@ Dimensi terakhir melihat derajat fleksibilitas seseorang. Judging di sini bukan 
 
 ## Teknologi
 + PHP (http://www.php.net/), 
-+ MySQL (http://www.mysql.com/), 
++ MySQL (http://www.mysql.com/),
+
+## ToDo
++ menambahkan sample data test (on progress)
 
 ## Donasi
-+ Bank Syariah Indonesia 821 342 5550
-+ Paypal (https://paypal.me/cahyadwiana)
+- untuk donasi via transfer 
+    - Bank Syariah Indonesia (BSI) 821-342-5550
+    - Bank Sinarmas (153) 005 462 4719
+    - Bank BCA Digital (Blu) (501) 000 576 776 186
+- untuk donasi via PayPal [https://paypal.me/cahyadwiana]
 
 ## Contact
 + facebook (https://m.facebook.com/cahya.dsn)
