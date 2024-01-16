@@ -1,7 +1,8 @@
 # MBTI
 Myer Briggs Type Indicator (MBTI) Test Application in PHP language (Indonesian version). Aplikasi Test MBTI (Myer Briggs Type Indicator) dalam bahasa Indonesia
 
-)* see https://github.com/cahyadsn/mbti_test for English version
+)* real data merupakan data proprietary, data yg disertakan dalm repo ini adalah data dummy
+)** see https://github.com/cahyadsn/mbti_test for English version
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cahyadsn/disc_id/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/cahyadsn/mbti.svg)](https://github.com/cahyadsn/mbti/network)
